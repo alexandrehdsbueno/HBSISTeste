@@ -26,7 +26,7 @@ namespace Application.Services
 
         public List<LivrosViewModel> GetAll()
         {
-            var livros = _livroCommand.GetAll();
+            var livros = _livroCommand.GetAll().OrderBy(x => x.Titulo);
             var livrosViewModel = livros.Select(x => _mapper.Map<LivrosViewModel>(x)).ToList();
             return livrosViewModel;
         }
