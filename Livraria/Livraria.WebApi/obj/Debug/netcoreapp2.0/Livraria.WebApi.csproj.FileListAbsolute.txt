@@ -1,0 +1,11 @@
+C:\Users\alexa\source\repos\Livraria\Livraria.WebApi\bin\Debug\netcoreapp2.0\Livraria.WebApi.deps.json
+C:\Users\alexa\source\repos\Livraria\Livraria.WebApi\bin\Debug\netcoreapp2.0\Livraria.WebApi.runtimeconfig.json
+C:\Users\alexa\source\repos\Livraria\Livraria.WebApi\bin\Debug\netcoreapp2.0\Livraria.WebApi.runtimeconfig.dev.json
+C:\Users\alexa\source\repos\Livraria\Livraria.WebApi\bin\Debug\netcoreapp2.0\Livraria.WebApi.dll
+C:\Users\alexa\source\repos\Livraria\Livraria.WebApi\bin\Debug\netcoreapp2.0\Livraria.WebApi.pdb
+C:\Users\alexa\source\repos\Livraria\Livraria.WebApi\obj\Debug\netcoreapp2.0\Livraria.WebApi.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\Livraria\Livraria.WebApi\obj\Debug\netcoreapp2.0\Livraria.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Livraria\Livraria.WebApi\obj\Debug\netcoreapp2.0\Livraria.WebApi.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Livraria\Livraria.WebApi\obj\Debug\netcoreapp2.0\Livraria.WebApi.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Livraria\Livraria.WebApi\obj\Debug\netcoreapp2.0\Livraria.WebApi.dll
+C:\Users\alexa\source\repos\Livraria\Livraria.WebApi\obj\Debug\netcoreapp2.0\Livraria.WebApi.pdb
